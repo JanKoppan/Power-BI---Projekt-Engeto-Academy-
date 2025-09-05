@@ -1,4 +1,4 @@
-# Power-BI---Projekt-Engeto-Academy-
+# Power-BI-Projekt-Engeto-Academy-
 Power BI Projekt – Analýza pracovních úkonů zaměstnanců
 
 Tento Power BI report byl vytvořen jako závěrečný projekt v rámci kurzu Power BI Akademie od společnosti Engeto. Hlavním cílem bylo analyzovat a vizualizovat pracovní činnosti zaměstnanců na základě dat dostupných z Kaggle.com. 
